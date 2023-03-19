@@ -1,0 +1,74 @@
+body{
+    color: white;
+    background-image: url("images/backgound.jpg");
+    background-size: cover;
+}
+
+a{
+    color: gold;
+    text-decoration: none;
+}
+
+.first{
+    display: inline-block;
+    text-decoration-line: none;
+}
+
+.second{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 300px;
+}
+
+.third{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 350px;
+}
+
+.fourth{
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    top : 330px;
+    right: 100px;
+}
+
+.fifth{
+    color: pink;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 300px;
+    font-size: 20px;
+}
+
+.fa-instagram{
+    color: crimson;
+    font-size: 40px;
+    padding: 20px;
+}
+.fa-facebook{
+    color: rgb(7, 83, 247);
+    font-size: 40px;
+}
+table{
+    border-spacing: 20px;
+}
+ 
+.text1{
+    font-size: 25px;
+    color: powderblue;
+    text-align: center;
+}
+
+.text2{
+    font-size: 20px;
+}
+.name{
+    font-size: 30px;
+    color: teal;
+    font-family: 'Courier New', Courier, monospace;
+}
